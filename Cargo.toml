@@ -8,4 +8,4 @@ authors = ["rahmed | mail: rahmedyev@gmail.com | discord: rahmedis"]
 curl = "0.4.46"
 [[bin]]
 name = "main"
-path = "src/main.rs"
+path = "src/systemarequesta.rs"
