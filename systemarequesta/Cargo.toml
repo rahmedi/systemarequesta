@@ -1,0 +1,11 @@
+[package]
+name = "main"
+version = "0.1.0"
+edition = "2021"
+authors = ["rahmed | mail: rahmedyev@gmail.com | discord: rahmedis"]
+
+[dependencies]
+curl = "0.4.46"
+[[bin]]
+name = "main"
+path = "src/main.rs"
