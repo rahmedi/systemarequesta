@@ -1,40 +1,42 @@
-# Universal License by Rahmed
-## Version 1.0
+> Universal Development License by Rahmed
+Version 1.0
 
 Copyright (c) 2024 Rahmed
 
-## Preamble
+> Preamble
 
-The Universal Rahmed License is designed to ensure that users have the freedom to use, modify, and distribute the software while respecting the rights of the original author. It promotes transparency and responsible usage of the software.
+The Universal Development License by Rahmed is designed to ensure that users have the freedom to use, modify, and distribute the software while respecting the rights of the original author. It promotes transparency and responsible usage of the software.
 
-## TERMS AND CONDITIONS
+The Universal Development License by Rahmed protects the legal rights of the author. If the terms of this license are violated in the use, modification, or distribution of the software, the author reserves the right to initiate legal action. All conditions of the license are in place to safeguard the author's rights and provide legal grounds for enforcement in the event of violations.
 
-1. **Attribution**: Any changes made to the Software must be clearly documented and attributed to the original author. Redistribution of the Software, whether modified or unmodified, must retain this copyright notice and attribution.
+> TERMS AND CONDITIONS
 
-2. **Personal and Academic Use Only**: The Software is for personal and academic use only. Commercial use is strictly prohibited.
+1. Attribution: Any changes made to the Software must be clearly documented and attributed to the original author. Redistribution of the Software, whether modified or unmodified, must retain this copyright notice and attribution.
 
-3. **No Closed Source Integration**: The Software may not be integrated into closed-source or proprietary projects. It must remain open and freely accessible.
+2. Personal and Academic Use Only: The Software is for personal and academic use only. Commercial use is strictly prohibited.
 
-4. **Modification and Distribution Approval**: The Software can be modified and distributed with the author’s approval. Derivative works must also be licensed under the same copyleft conditions.
+3. No Closed Source Integration: The Software may not be integrated into closed-source or proprietary projects. It must remain open and freely accessible.
 
-5. **Bug Fixes**: The author is responsible for fixing any bugs. If the Software contains a virus or trojan, this is considered a license violation.
+4. Modification and Distribution Approval: The Software can be modified and distributed with the author’s approval. Derivative works must also be licensed under the same copyleft conditions.
 
-6. **Approval for Further Development**: If the Software is further developed, the developer must first contact the author for approval. Modifications must be clearly documented after approval.
+5. Bug Fixes: The author is responsible for fixing any bugs. If the Software contains a virus or trojan, this is considered a license violation.
 
-7. **Feedback**: Feedback on the project should be directed to rahmedyev@gmail.com.
+6. Approval for Further Development: If the Software is further developed, the developer must first contact the author for approval. Modifications must be clearly documented after approval.
 
-8. **No Warranty**: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+7. Feedback: Feedback on the project should be directed to rahmedyev@gmail.com.
 
-9. **No Liability for Illegal Use**: The author is not responsible for any illegal or malicious use of the Software by any third party.
+8. No Warranty: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 
-10. **Unlimited License Duration**: This license is valid indefinitely for the entire copyright duration of the author and beyond.
+9. No Liability for Illegal Use: The author is not responsible for any illegal or malicious use of the Software by any third party.
 
-11. **Transfer of License**: This license may not be transferred to another party.
+10. Unlimited License Duration: This license is valid indefinitely for the entire copyright duration of the author and beyond.
 
-12. **Violation**: If any terms of this license are violated, including presenting the Software as if it were written by the user, the author reserves the right to take action, including legal action. This license can be used in court to present the violated clauses. In case of violation, the author's wishes will take precedence, and if they are not followed, the author may take legal action.
+11. Transfer of License: This license may not be transferred to another party.
 
-13. **Integration into Other Codebases**: If this Software is integrated into another codebase, the original author’s authorship must be clearly indicated in comment blocks within the code.
+12. Violation: If any terms of this license are violated, including presenting the Software as if it were written by the user, the author reserves the right to take action, including legal action. This license can be used in court to present the violated clauses. In case of violation, the author's wishes will take precedence, and if they are not followed, the author may take legal action.
 
-14. **Legal Compliance**: Users are responsible for complying with all applicable laws and regulations while using the Software.
+13. Integration into Other Codebases: If this Software is integrated into another codebase, the original author’s authorship must be clearly indicated in comment blocks within the code.
 
-15. **License Updates**: The author reserves the right to update this license over time.
+14. Legal Compliance: Users are responsible for complying with all applicable laws and regulations while using the Software.
+
+15. License Updatesx: The author reserves the right to update this license over time.
