@@ -51,10 +51,10 @@ fn hsf() {
     stdout().flush().unwrap();
     stdin().read_line(&mut hsf_target).expect("Failed to Read Input: Url or IP");
     
-    let hsf_target = hsf_target.trim(); // Kullanıcıdan alınan URL'yi temizle
+    let hsf_target = hsf_target.trim();
     if hsf_target.is_empty() {
         println!("Error: URL cannot be empty");
-        return; // URL boşsa fonksiyondan çık
+        return;
     }
 
     print!("Request Number > ");
